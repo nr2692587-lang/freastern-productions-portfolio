@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1200" role="img">
+ <title>Agatha gallery outdoor child portrait </title>
+ <desc>Illustrated child portrait scene with nature-inspired colors.</desc>
+ <rect width="900" height="1200" fill="#dcf4df"/>
+ <circle cx="450" cy="350" r="160" fill="#f4bea0"/>
+ <rect x="275" y="510" width="350" height="440" rx="160" fill="#6aa88b"/>
+ <circle cx="392" cy="338" r="13" fill="#2d2d2d"/><circle cx="508" cy="338" r="13" fill="#2d2d2d"/>
+ <path d="M388 425 Q450 480 512 425" fill="none" stroke="#3f7d63" stroke-width="15" stroke-linecap="round"/>
+</svg>
