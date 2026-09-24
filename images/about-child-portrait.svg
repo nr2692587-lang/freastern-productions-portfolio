@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1200" role="img" aria-labelledby="title desc">
-  <title id="title">Young child portrait placeholder</title>
-  <desc id="desc">Illustrated smiling child portrait with soft background.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1200" role="img">
+  <title>Young child portrait placeholder</title>
+  <desc>Illustrated smiling child portrait with soft background.</desc>
   <rect width="900" height="1200" fill="#f4f0ff"/>
   <circle cx="450" cy="350" r="170" fill="#f9c5a8"/>
   <ellipse cx="450" cy="780" rx="250" ry="290" fill="#8bc5ff"/>

@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1200" role="img" aria-labelledby="title desc">
-  <title id="title">Sarah gallery child portrait placeholder</title>
-  <desc id="desc">Illustrated child smiling in a studio portrait setting.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1200" role="img">
+  <title>Sarah gallery child portrait placeholder</title>
+  <desc>Illustrated child smiling in a studio portrait setting.</desc>
   <rect width="900" height="1200" fill="#ffe9d6"/>
   <circle cx="450" cy="360" r="165" fill="#f8c8aa"/>
   <rect x="270" y="520" width="360" height="430" rx="170" fill="#ff9f80"/>

@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1200" role="img" aria-labelledby="title desc">
-  <title id="title">Agatha gallery outdoor child portrait placeholder</title>
-  <desc id="desc">Illustrated child portrait scene with nature-inspired colors.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1200" role="img">
+  <title>Agatha gallery outdoor child portrait placeholder</title>
+  <desc>Illustrated child portrait scene with nature-inspired colors.</desc>
   <rect width="900" height="1200" fill="#dcf4df"/>
   <circle cx="450" cy="350" r="160" fill="#f4bea0"/>
   <rect x="275" y="510" width="350" height="440" rx="160" fill="#6aa88b"/>

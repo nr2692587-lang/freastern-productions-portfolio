@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
-  <title id="title">Children and family portrait scene placeholder</title>
-  <desc id="desc">Illustrated children and a parent standing together in a sunny park setting.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" role="img">
+  <title>Children and family portrait scene placeholder</title>
+  <desc>Illustrated children and a parent standing together in a sunny park setting.</desc>
   <defs>
     <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
       <stop offset="0%" stop-color="#9bd4ff"/>

@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1200" role="img" aria-labelledby="title desc">
-  <title id="title">Sage gallery young portrait placeholder</title>
-  <desc id="desc">Illustrated young subject in a playful portrait with bright colors.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1200" role="img">
+  <title>Sage gallery young portrait placeholder</title>
+  <desc>Illustrated young subject in a playful portrait with bright colors.</desc>
   <rect width="900" height="1200" fill="#e2f8ff"/>
   <circle cx="450" cy="350" r="160" fill="#f6c3a1"/>
   <rect x="280" y="510" width="340" height="450" rx="150" fill="#6cc0ff"/>

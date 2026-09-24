@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1200" role="img" aria-labelledby="title desc">
-  <title id="title">Madison gallery child portrait placeholder</title>
-  <desc id="desc">Illustrated child portrait with a warm neutral backdrop.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1200" role="img">
+  <title>Madison gallery child portrait placeholder</title>
+  <desc>Illustrated child portrait with a warm neutral backdrop.</desc>
   <rect width="900" height="1200" fill="#f6f1e8"/>
   <circle cx="450" cy="355" r="162" fill="#f5bf9e"/>
   <rect x="270" y="520" width="360" height="430" rx="160" fill="#9cb37d"/>
