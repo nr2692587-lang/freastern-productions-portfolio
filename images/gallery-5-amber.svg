@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1200" role="img">
- <title>Amber gallery family child portrait </title>
- <desc>Illustrated young subject in a cozy family portrait style.</desc>
- <rect width="900" height="1200" fill="#ffe8f0"/>
- <circle cx="450" cy="355" r="162" fill="#f6c6a9"/>
- <rect x="265" y="520" width="370" height="430" rx="170" fill="#ff9eb0"/>
- <circle cx="390" cy="343" r="13" fill="#2f2f2f"/><circle cx="510" cy="343" r="13" fill="#2f2f2f"/>
- <path d="M386 430 Q450 492 514 430" fill="none" stroke="#b85b76" stroke-width="15" stroke-linecap="round"/>
-</svg>
