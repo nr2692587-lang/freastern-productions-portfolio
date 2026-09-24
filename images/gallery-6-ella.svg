@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1200" role="img" aria-labelledby="title desc">
+  <title id="title">Ella gallery story portrait placeholder</title>
+  <desc id="desc">Illustrated child portrait with creative storytelling colors.</desc>
+  <rect width="900" height="1200" fill="#ece9ff"/>
+  <circle cx="450" cy="350" r="160" fill="#f6c8ae"/>
+  <rect x="275" y="510" width="350" height="440" rx="165" fill="#9d8cff"/>
+  <circle cx="392" cy="340" r="13" fill="#2f2f2f"/><circle cx="508" cy="340" r="13" fill="#2f2f2f"/>
+  <path d="M387 425 Q450 482 513 425" fill="none" stroke="#6555b5" stroke-width="15" stroke-linecap="round"/>
+</svg>
