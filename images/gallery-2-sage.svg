@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1200" role="img">
-  <title>Sage gallery young portrait placeholder</title>
-  <desc>Illustrated young subject in a playful portrait with bright colors.</desc>
-  <rect width="900" height="1200" fill="#e2f8ff"/>
-  <circle cx="450" cy="350" r="160" fill="#f6c3a1"/>
-  <rect x="280" y="510" width="340" height="450" rx="150" fill="#6cc0ff"/>
-  <circle cx="390" cy="340" r="13" fill="#2e2e2e"/><circle cx="510" cy="340" r="13" fill="#2e2e2e"/>
-  <path d="M385 425 Q450 475 515 425" fill="none" stroke="#4f86c6" stroke-width="15" stroke-linecap="round"/>
+ <title>Sage gallery young portrait </title>
+ <desc>Illustrated young subject in a playful portrait with bright colors.</desc>
+ <rect width="900" height="1200" fill="#e2f8ff"/>
+ <circle cx="450" cy="350" r="160" fill="#f6c3a1"/>
+ <rect x="280" y="510" width="340" height="450" rx="150" fill="#6cc0ff"/>
+ <circle cx="390" cy="340" r="13" fill="#2e2e2e"/><circle cx="510" cy="340" r="13" fill="#2e2e2e"/>
+ <path d="M385 425 Q450 475 515 425" fill="none" stroke="#4f86c6" stroke-width="15" stroke-linecap="round"/>
 </svg>

@@ -1,26 +1,25 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" role="img">
-  <title>Children and family portrait scene placeholder</title>
-  <desc>Illustrated children and a parent standing together in a sunny park setting.</desc>
-  <defs>
-    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0%" stop-color="#9bd4ff"/>
-      <stop offset="100%" stop-color="#e8f7ff"/>
-    </linearGradient>
-  </defs>
-  <rect width="1600" height="900" fill="url(#sky)"/>
-  <rect y="630" width="1600" height="270" fill="#9dd79e"/>
-  <circle cx="240" cy="160" r="80" fill="#ffe082"/>
-  <g fill="#5a4e8f">
-    <circle cx="720" cy="360" r="58"/>
-    <rect x="665" y="420" width="110" height="200" rx="45"/>
-  </g>
-  <g fill="#f39b7a">
-    <circle cx="580" cy="390" r="45"/>
-    <rect x="540" y="435" width="80" height="155" rx="34"/>
-  </g>
-  <g fill="#7ac0f3">
-    <circle cx="860" cy="390" r="45"/>
-    <rect x="820" y="435" width="80" height="155" rx="34"/>
-  </g>
-  <text x="800" y="820" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="56" fill="#1d3557">Children&apos;s Photography Placeholder</text>
+ <title>Children and family portrait scene </title>
+ <desc>Illustrated children and a parent standing together in a sunny park setting.</desc>
+ <defs>
+ <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+ <stop offset="0%" stop-color="#9bd4ff"/>
+ <stop offset="100%" stop-color="#e8f7ff"/>
+ </linearGradient>
+ </defs>
+ <rect width="1600" height="900" fill="url(#sky)"/>
+ <rect y="630" width="1600" height="270" fill="#9dd79e"/>
+ <circle cx="240" cy="160" r="80" fill="#ffe082"/>
+ <g fill="#5a4e8f">
+ <circle cx="720" cy="360" r="58"/>
+ <rect x="665" y="420" width="110" height="200" rx="45"/>
+ </g>
+ <g fill="#f39b7a">
+ <circle cx="580" cy="390" r="45"/>
+ <rect x="540" y="435" width="80" height="155" rx="34"/>
+ </g>
+ <g fill="#7ac0f3">
+ <circle cx="860" cy="390" r="45"/>
+ <rect x="820" y="435" width="80" height="155" rx="34"/>
+ </g>
 </svg>

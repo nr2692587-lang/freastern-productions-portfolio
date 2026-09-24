@@ -1,11 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1200" role="img">
-  <title>Young child portrait placeholder</title>
-  <desc>Illustrated smiling child portrait with soft background.</desc>
-  <rect width="900" height="1200" fill="#f4f0ff"/>
-  <circle cx="450" cy="350" r="170" fill="#f9c5a8"/>
-  <ellipse cx="450" cy="780" rx="250" ry="290" fill="#8bc5ff"/>
-  <circle cx="390" cy="330" r="15" fill="#2f2f2f"/>
-  <circle cx="510" cy="330" r="15" fill="#2f2f2f"/>
-  <path d="M380 430 Q450 500 520 430" fill="none" stroke="#d06666" stroke-width="18" stroke-linecap="round"/>
-  <text x="450" y="1090" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="48" fill="#5b4b8a">Young Portrait Placeholder</text>
+ <title>Young child portrait </title>
+ <desc>Illustrated smiling child portrait with soft background.</desc>
+ <rect width="900" height="1200" fill="#f4f0ff"/>
+ <circle cx="450" cy="350" r="170" fill="#f9c5a8"/>
+ <ellipse cx="450" cy="780" rx="250" ry="290" fill="#8bc5ff"/>
+ <circle cx="390" cy="330" r="15" fill="#2f2f2f"/>
+ <circle cx="510" cy="330" r="15" fill="#2f2f2f"/>
+ <path d="M380 430 Q450 500 520 430" fill="none" stroke="#d06666" stroke-width="18" stroke-linecap="round"/>
 </svg>
