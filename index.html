@@ -243,8 +243,12 @@
 
       .model-card .image {
         height: 420px;
-        background-size: cover;
-        background-position: center;
+      }
+
+      .model-card .image img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
       }
 
       .model-info {
@@ -367,22 +371,22 @@
 
           <div class="gallery-grid">
             <div class="gallery-item">
-              <img src="images/gallery-1-sarah.svg" alt="Smiling young child in a warm studio portrait setting" />
+              <img src="images/gallery-1-sarah.svg" alt="Sarah smiling in a warm studio child portrait setting" />
             </div>
             <div class="gallery-item">
-              <img src="images/gallery-2-sage.svg" alt="Playful young subject portrait with bright blue tones" />
+              <img src="images/gallery-2-sage.svg" alt="Sage in a playful child portrait with bright blue tones" />
             </div>
             <div class="gallery-item">
-              <img src="images/gallery-3-madison.svg" alt="Classic child portrait with a soft neutral background" />
+              <img src="images/gallery-3-madison.svg" alt="Madison in a classic child portrait with a soft neutral background" />
             </div>
             <div class="gallery-item">
-              <img src="images/gallery-4-agatha.svg" alt="Outdoor-inspired children’s portrait with natural green tones" />
+              <img src="images/gallery-4-agatha.svg" alt="Agatha in an outdoor-inspired child portrait with natural green tones" />
             </div>
             <div class="gallery-item">
-              <img src="images/gallery-5-amber.svg" alt="Family-style child portrait with soft pink tones and a joyful expression" />
+              <img src="images/gallery-5-amber.svg" alt="Amber in a family-style child portrait with soft pink tones and a joyful expression" />
             </div>
             <div class="gallery-item">
-              <img src="images/gallery-6-ella.svg" alt="Creative story portrait of a young child with purple accents" />
+              <img src="images/gallery-6-ella.svg" alt="Ella in a creative story portrait with playful purple accents" />
             </div>
           </div>
         </div>
@@ -397,7 +401,9 @@
 
           <div class="model-grid">
             <article class="model-card" id="sarah">
-              <div class="image" style="background-image: url('images/gallery-1-sarah.svg');"></div>
+              <div class="image">
+                <img src="images/gallery-1-sarah.svg" alt="Sarah child portrait with a warm studio style" />
+              </div>
               <div class="model-info">
                 <div class="meta">Children's Portrait</div>
                 <h3>Sarah</h3>
@@ -406,7 +412,9 @@
             </article>
 
             <article class="model-card" id="sage">
-              <div class="image" style="background-image: url('images/gallery-2-sage.svg');"></div>
+              <div class="image">
+                <img src="images/gallery-2-sage.svg" alt="Sage child portrait with playful bright blue styling" />
+              </div>
               <div class="model-info">
                 <div class="meta">Playful Portrait</div>
                 <h3>Sage</h3>
@@ -415,7 +423,9 @@
             </article>
 
             <article class="model-card" id="madison">
-              <div class="image" style="background-image: url('images/gallery-3-madison.svg');"></div>
+              <div class="image">
+                <img src="images/gallery-3-madison.svg" alt="Madison child portrait with a classic neutral-toned look" />
+              </div>
               <div class="model-info">
                 <div class="meta">Classic Portrait</div>
                 <h3>Madison</h3>
@@ -424,7 +434,9 @@
             </article>
 
             <article class="model-card" id="agatha">
-              <div class="image" style="background-image: url('images/gallery-4-agatha.svg');"></div>
+              <div class="image">
+                <img src="images/gallery-4-agatha.svg" alt="Agatha child portrait inspired by outdoor natural colors" />
+              </div>
               <div class="model-info">
                 <div class="meta">Outdoor Portrait</div>
                 <h3>Agatha</h3>
@@ -433,7 +445,9 @@
             </article>
 
             <article class="model-card" id="amber">
-              <div class="image" style="background-image: url('images/gallery-5-amber.svg');"></div>
+              <div class="image">
+                <img src="images/gallery-5-amber.svg" alt="Amber child portrait in a family-style pink palette" />
+              </div>
               <div class="model-info">
                 <div class="meta">Family Session</div>
                 <h3>Amber</h3>
@@ -442,7 +456,9 @@
             </article>
 
             <article class="model-card" id="ella">
-              <div class="image" style="background-image: url('images/gallery-6-ella.svg');"></div>
+              <div class="image">
+                <img src="images/gallery-6-ella.svg" alt="Ella child portrait with creative storybook purple accents" />
+              </div>
               <div class="model-info">
                 <div class="meta">Story Portrait</div>
                 <h3>Ella</h3>
