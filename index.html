@@ -12,20 +12,14 @@
       :root {
         --bg: #0d0d0d;
         --panel: #171717;
-        --panel-2: #1f1f1f;
         --text: #f3f3f3;
         --muted: #b9b9b9;
         --accent: #d9b38c;
         --line: rgba(255, 255, 255, 0.08);
       }
 
-      * {
-        box-sizing: border-box;
-      }
-
-      html {
-        scroll-behavior: smooth;
-      }
+      * { box-sizing: border-box; }
+      html { scroll-behavior: smooth; }
 
       body {
         margin: 0;
@@ -35,15 +29,8 @@
         line-height: 1.6;
       }
 
-      img {
-        max-width: 100%;
-        display: block;
-      }
-
-      a {
-        color: inherit;
-        text-decoration: none;
-      }
+      img { max-width: 100%; display: block; }
+      a { color: inherit; text-decoration: none; }
 
       .container {
         width: min(1180px, calc(100% - 32px));
@@ -82,15 +69,13 @@
         color: var(--muted);
       }
 
-      .nav-links a:hover {
-        color: var(--text);
-      }
+      .nav-links a:hover { color: var(--text); }
 
       .hero {
         padding: 80px 0 50px;
         background:
-          linear-gradient(rgba(0, 0, 0, 0.45), rgba(0, 0, 0, 0.45)),
-          url("images/hero-children-photography.svg")
+          linear-gradient(rgba(0, 0, 0, 0.48), rgba(0, 0, 0, 0.48)),
+          url("https://images.unsplash.com/photo-1503454537195-1dcabb73ffb9?auto=format&fit=crop&w=1600&q=85")
           center/cover no-repeat;
       }
 
@@ -101,9 +86,7 @@
         padding-bottom: 30px;
       }
 
-      .hero-copy {
-        max-width: 720px;
-      }
+      .hero-copy { max-width: 720px; }
 
       .eyebrow {
         color: var(--accent);
@@ -148,13 +131,9 @@
       }
 
       .button.secondary:hover,
-      .button.primary:hover {
-        transform: translateY(-1px);
-      }
+      .button.primary:hover { transform: translateY(-1px); }
 
-      section {
-        padding: 80px 0;
-      }
+      section { padding: 80px 0; }
 
       .section-heading {
         display: flex;
@@ -200,8 +179,8 @@
       .portrait {
         min-height: 420px;
         background:
-          linear-gradient(rgba(0,0,0,0.2), rgba(0,0,0,0.2)),
-          url("images/about-child-portrait.svg")
+          linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),
+          url("https://images.unsplash.com/photo-1544717305-2782549b5136?auto=format&fit=crop&w=900&q=85")
           center/cover no-repeat;
       }
 
@@ -226,9 +205,7 @@
         transition: transform 0.5s ease;
       }
 
-      .gallery-item:hover img {
-        transform: scale(1.03);
-      }
+      .gallery-item:hover img { transform: scale(1.03); }
 
       .model-grid {
         display: grid;
@@ -242,19 +219,12 @@
       }
 
       .model-card .image {
-        height: 420px;
-        overflow: hidden;
-      }
-
-      .model-card .image img {
         width: 100%;
-        height: 100%;
+        height: 420px;
         object-fit: cover;
       }
 
-      .model-info {
-        padding: 22px 22px 26px;
-      }
+      .model-info { padding: 22px 22px 26px; }
 
       .model-info h3 {
         margin: 0 0 8px;
@@ -281,9 +251,7 @@
         gap: 22px;
       }
 
-      .contact-card {
-        min-height: 240px;
-      }
+      .contact-card { min-height: 240px; }
 
       .contact-list {
         list-style: none;
@@ -307,13 +275,9 @@
         .about-grid,
         .contact,
         .gallery-grid,
-        .model-grid {
-          grid-template-columns: 1fr;
-        }
+        .model-grid { grid-template-columns: 1fr; }
 
-        .section-heading {
-          display: block;
-        }
+        .section-heading { display: block; }
 
         .nav {
           flex-direction: column;
@@ -321,9 +285,7 @@
           padding: 18px 0;
         }
 
-        .nav-links {
-          justify-content: center;
-        }
+        .nav-links { justify-content: center; }
       }
     </style>
   </head>
@@ -349,11 +311,10 @@
       <section class="hero">
         <div class="container hero-inner">
           <div class="hero-copy">
-            <div class="eyebrow">Photography • Children • Family Portraits</div>
+            <div class="eyebrow">Children • Family • Milestone Photography</div>
             <h1>FReastern Productions</h1>
             <p class="subhead">
-              Creating joyful children’s portraits and family-friendly imagery that
-              celebrate personality, connection, and playful moments.
+              Joyful, timeless portraits that celebrate childhood, personality, and the moments families never want to forget.
             </p>
             <div class="cta-row">
               <a href="#portfolio" class="button primary">View Portfolio</a>
@@ -367,27 +328,27 @@
         <div class="container">
           <div class="section-heading">
             <h2>Selected Work</h2>
-            <p>Children’s portrait photography designed to feel warm, playful, and full of personality.</p>
+            <p>Natural, colorful children’s portraits and family moments with a warm, playful feel.</p>
           </div>
 
           <div class="gallery-grid">
             <div class="gallery-item">
-              <img src="images/gallery-1-sarah.svg" alt="Sarah smiling in a warm studio child portrait setting" width="900" height="1200" />
+              <img src="https://images.unsplash.com/photo-1503454537195-1dcabb73ffb9?auto=format&fit=crop&w=900&q=85" alt="Young child smiling outdoors in a warm portrait" />
             </div>
             <div class="gallery-item">
-              <img src="images/gallery-2-sage.svg" alt="Sage in a playful child portrait with bright blue tones" width="900" height="1200" />
+              <img src="https://images.unsplash.com/photo-1544717305-2782549b5136?auto=format&fit=crop&w=900&q=85" alt="Child looking at the camera in a classic portrait" />
             </div>
             <div class="gallery-item">
-              <img src="images/gallery-3-madison.svg" alt="Madison in a classic child portrait with a soft neutral background" width="900" height="1200" />
+              <img src="https://images.unsplash.com/photo-1489710437720-ebb67ec84dd2?auto=format&fit=crop&w=900&q=85" alt="Child playing outside in a joyful lifestyle portrait" />
             </div>
             <div class="gallery-item">
-              <img src="images/gallery-4-agatha.svg" alt="Agatha in an outdoor-inspired child portrait with natural green tones" width="900" height="1200" />
+              <img src="https://images.unsplash.com/photo-1504159506876-f8338247a14a?auto=format&fit=crop&w=900&q=85" alt="Young child in a candid family photography moment" />
             </div>
             <div class="gallery-item">
-              <img src="images/gallery-5-amber.svg" alt="Amber in a family-style child portrait with soft pink tones and a joyful expression" width="900" height="1200" />
+              <img src="https://images.unsplash.com/photo-1516627145497-ae6968895b74?auto=format&fit=crop&w=900&q=85" alt="Young child in a softly lit milestone portrait" />
             </div>
             <div class="gallery-item">
-              <img src="images/gallery-6-ella.svg" alt="Ella in a creative story portrait with playful purple accents" width="900" height="1200" />
+              <img src="https://images.unsplash.com/photo-1472162072942-cd5147eb3902?auto=format&fit=crop&w=900&q=85" alt="Child enjoying an outdoor portrait session" />
             </div>
           </div>
         </div>
@@ -397,73 +358,61 @@
         <div class="container">
           <div class="section-heading">
             <h2>Featured Models</h2>
-            <p>Explore individual children’s portrait galleries and joyful visual stories.</p>
+            <p>Explore individual children’s portrait galleries and the joyful stories behind each session.</p>
           </div>
 
           <div class="model-grid">
             <article class="model-card" id="sarah">
-              <div class="image">
-                <img src="images/gallery-1-sarah.svg" alt="Illustrated featured portrait for Sarah's section" width="900" height="1200" decoding="async" />
-              </div>
+              <img class="image" src="https://images.unsplash.com/photo-1503454537195-1dcabb73ffb9?auto=format&fit=crop&w=900&q=85" alt="Sarah’s warm outdoor children’s portrait" />
               <div class="model-info">
-                <div class="meta">Children's Portrait</div>
+                <div class="meta">Children’s Portrait</div>
                 <h3>Sarah</h3>
-                <p>Bright studio portraits with soft light, playful expressions, and timeless composition.</p>
+                <p>Warm, personality-filled portraits made with gentle direction and plenty of room to play.</p>
               </div>
             </article>
 
             <article class="model-card" id="sage">
-              <div class="image">
-                <img src="images/gallery-2-sage.svg" alt="Illustrated featured portrait for Sage's section" width="900" height="1200" loading="lazy" decoding="async" />
-              </div>
+              <img class="image" src="https://images.unsplash.com/photo-1489710437720-ebb67ec84dd2?auto=format&fit=crop&w=900&q=85" alt="Sage’s playful outdoor children’s portrait" />
               <div class="model-info">
                 <div class="meta">Playful Portrait</div>
                 <h3>Sage</h3>
-                <p>Playful portrait sessions full of movement, laughter, and bright visual energy.</p>
+                <p>Bright, candid images that capture movement, laughter, and a child’s natural curiosity.</p>
               </div>
             </article>
 
             <article class="model-card" id="madison">
-              <div class="image">
-                <img src="images/gallery-3-madison.svg" alt="Illustrated featured portrait for Madison's section" width="900" height="1200" loading="lazy" decoding="async" />
-              </div>
+              <img class="image" src="https://images.unsplash.com/photo-1544717305-2782549b5136?auto=format&fit=crop&w=900&q=85" alt="Madison’s classic children’s portrait" />
               <div class="model-info">
                 <div class="meta">Classic Portrait</div>
                 <h3>Madison</h3>
-                <p>Classic children’s portraits focused on personality, detail, and warm storytelling.</p>
+                <p>A timeless session with soft light, genuine expressions, and a polished but natural finish.</p>
               </div>
             </article>
 
             <article class="model-card" id="agatha">
-              <div class="image">
-                <img src="images/gallery-4-agatha.svg" alt="Illustrated featured portrait for Agatha's section" width="900" height="1200" loading="lazy" decoding="async" />
-              </div>
+              <img class="image" src="https://images.unsplash.com/photo-1472162072942-cd5147eb3902?auto=format&fit=crop&w=900&q=85" alt="Agatha’s nature-inspired children’s portrait" />
               <div class="model-info">
                 <div class="meta">Outdoor Portrait</div>
                 <h3>Agatha</h3>
-                <p>Outdoor children’s portraits with natural light, gentle tones, and candid moments.</p>
+                <p>Easygoing outdoor images that let children explore, connect, and be themselves.</p>
               </div>
             </article>
 
             <article class="model-card" id="amber">
-              <div class="image">
-                <img src="images/gallery-5-amber.svg" alt="Illustrated featured portrait for Amber's section" width="900" height="1200" loading="lazy" decoding="async" />
-              </div>
+              <img class="image" src="https://images.unsplash.com/photo-1504159506876-f8338247a14a?auto=format&fit=crop&w=900&q=85" alt="Amber’s candid family session portrait" />
               <div class="model-info">
                 <div class="meta">Family Session</div>
                 <h3>Amber</h3>
-                <p>Warm family-focused imagery blending natural emotion with a polished, heartfelt style.</p>
+                <p>Relaxed family photography centered on connection, little details, and real moments together.</p>
               </div>
             </article>
 
             <article class="model-card" id="ella">
-              <div class="image">
-                <img src="images/gallery-6-ella.svg" alt="Illustrated featured portrait for Ella's section" width="900" height="1200" loading="lazy" decoding="async" />
-              </div>
+              <img class="image" src="https://images.unsplash.com/photo-1516627145497-ae6968895b74?auto=format&fit=crop&w=900&q=85" alt="Ella’s creative milestone portrait" />
               <div class="model-info">
-                <div class="meta">Story Portrait</div>
+                <div class="meta">Milestone Portrait</div>
                 <h3>Ella</h3>
-                <p>Story-driven children’s portraits with expressive framing and playful creative direction.</p>
+                <p>Creative, age-appropriate portraits that preserve the big personality behind every little milestone.</p>
               </div>
             </article>
           </div>
@@ -474,22 +423,21 @@
         <div class="container">
           <div class="section-heading">
             <h2>About the Brand</h2>
-            <p>FReastern Productions creates children’s portrait experiences that feel joyful, expressive, and memorable.</p>
+            <p>FReastern Productions creates heartfelt children’s and family photography that feels fun, natural, and lasting.</p>
           </div>
 
           <div class="about-grid">
             <div class="about-card">
               <p>
-                FReastern Productions is a children’s photography brand centered around storytelling, artistry, and connection.
-                Every session is designed to capture the personality, curiosity, and energy of each child in a warm, family-friendly way.
+                FReastern Productions is a children’s photography brand centered on storytelling, connection, and the unique personality of every child.
+                Each session is relaxed, age-appropriate, and designed to make children feel comfortable enough to simply be themselves.
               </p>
               <p>
-                From milestone portraits to playful family sessions, the focus is always on creating images that feel authentic,
-                joyful, and uniquely yours.
+                From milestone portraits and seasonal sessions to family photography, the focus is on genuine expressions and the beautiful in-between moments you will want to remember for years.
               </p>
             </div>
 
-            <div class="portrait"></div>
+            <div class="portrait" role="img" aria-label="Child portrait placeholder from Unsplash"></div>
           </div>
         </div>
       </section>
@@ -498,14 +446,14 @@
         <div class="container">
           <div class="section-heading">
             <h2>Book a Session</h2>
-            <p>Let’s create children’s portraits that feel natural, joyful, and unforgettable.</p>
+            <p>Let’s create joyful, meaningful images of the people you love most.</p>
           </div>
 
           <div class="contact">
             <div class="contact-card">
               <p>
-                Whether you’re booking a children’s portrait session, family shoot, or milestone session,
-                FReastern Productions is ready to bring your vision to life.
+                Whether you are planning a children’s milestone session, a family portrait, or a seasonal mini session,
+                FReastern Productions is ready to help you preserve this chapter beautifully.
               </p>
 
               <ul class="contact-list">
@@ -517,7 +465,7 @@
 
             <div class="contact-card">
               <h3>Inquire</h3>
-              <p>Tell me about your child’s session, timeline, and the look you want to capture.</p>
+              <p>Share your child’s age, your ideal timing, and the type of session you have in mind.</p>
               <a href="mailto:hello@freasternproductions.com" class="button primary">Send Inquiry</a>
             </div>
           </div>
@@ -526,9 +474,7 @@
     </main>
 
     <footer>
-      <div class="container">
-        © 2025 FReastern Productions
-      </div>
+      <div class="container">© 2026 FReastern Productions</div>
     </footer>
   </body>
 </html>
